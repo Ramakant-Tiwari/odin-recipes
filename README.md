@@ -1,0 +1,1 @@
+All the basics in HTML that I have learned. I am going to apply in this project.
